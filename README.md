@@ -1,4 +1,4 @@
-mvn-project-template
-====================
+$project
+==========
 
-Project template for most of the projects with some submodules
+$project description
